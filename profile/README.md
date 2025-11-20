@@ -11,7 +11,7 @@
 ### 🔑 Client SDKs
 | Language   | Example Repo |
 |------------|--------------|
-| C#         | [ZeroAuth-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
+| C#         | [ZeroAuth-CSHARP-Example](https://github.com/ZeroAuthh/Csharp-Exemple) |
 | C++        | [ZeroAuth-CPP-Example](https://github.com/KeyAuth/KeyAuth-CPP-Example) |
 
 ---
