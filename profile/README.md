@@ -12,7 +12,7 @@
 | Language   | Example Repo |
 |------------|--------------|
 | C#         | [ZeroAuth-CSHARP-Example](https://github.com/ZeroAuthh/ZeroAuth-Csharp-Exemple) |
-| C++        | [ZeroAuth-CPP-Example](https://github.com/ZeroAuthh/ZeroAuth-CPP-Exemple) |
+| C++        | [ZeroAuth-CPP-Example](https://github.com/ZeroAuthh/ZeroAuth-CPP-Example) |
 
 ---
 
