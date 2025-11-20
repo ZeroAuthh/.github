@@ -13,6 +13,7 @@
 |------------|--------------|
 | C#         | [ZeroAuth-CSHARP-Example](https://github.com/ZeroAuthh/ZeroAuth-Csharp-Exemple) |
 | C++        | [ZeroAuth-CPP-Example](https://github.com/ZeroAuthh/ZeroAuth-CPP-Example) |
+| Python        | [ZeroAuth-Python-Example](https://github.com/ZeroAuthh/ZeroAuth-Python-Example/) 
 
 ---
 
