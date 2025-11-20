@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1377451494005276724/1440950706956795926/ZeroAuth-removebg-preview.png?ex=6920056c&is=691eb3ec&hm=164f64bd70c171627a88928cea667a016911239bee8d79f9ff3cecaf55be8301&" alt="ZeroAuth" width="180" height="100">
+  <img src="https://cdn.discordapp.com/attachments/1377451494005276724/1440952252591505528/Design_sem_nome-removebg-preview_1.png?ex=692006dc&is=691eb55c&hm=13dc45f407e972de5b19e88e6c0c56605f31709ccb6090438aadc722d3c7d238&" alt="ZeroAuth" width="180" height="100">
 </p>
 
 <p align="center">
